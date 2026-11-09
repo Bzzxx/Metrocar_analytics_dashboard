@@ -4,7 +4,7 @@
 
 🔗 **[Interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/anastasiia.bzhelenko/viz/Project_metrocar/MetrocarDashboard)**
 
-![Metrocar dashboard](screenshots/dashboard.png)
+![Metrocar dashboard](doc/dashboard.png)
 
 ---
 
