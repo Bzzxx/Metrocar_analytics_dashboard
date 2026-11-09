@@ -1,0 +1,4 @@
+platform,users_requested_ride,users_completed_ride,completion_rate
+android,3619,1830,50.57
+ios,7550,3792,50.23
+web,1237,611,49.39

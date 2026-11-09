@@ -1,0 +1,5 @@
+wait_time_group,rides,cancellation_rate
+5-10 min,151124,1.45
+< 5 min,74720,0.0
+> 10 min,22535,100.0
+not_accepted,137098,100.0

@@ -1,0 +1,8 @@
+funnel_step,funnel_name,rides
+1,download,0
+2,signup,0
+3,ride_requested,385477
+4,ride_accepted,248379
+5,ride_completed,223652
+6,payment,212628
+7,review,156211

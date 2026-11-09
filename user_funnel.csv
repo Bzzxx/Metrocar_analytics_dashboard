@@ -1,0 +1,8 @@
+funnel_step,funnel_name,users
+1,download,23608
+2,signup,17623
+3,ride_requested,12406
+4,ride_accepted,12278
+5,ride_completed,6233
+6,payment,6233
+7,review,4348
