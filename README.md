@@ -86,8 +86,6 @@ Find **where Metrocar loses users and rides in the funnel** and **when demand pe
 │       ├── 05_monthly_trends.sql
 │       └── 06_user_segmentation.sql
 ├── data/                   # query outputs used by Tableau (CSV, same names as sql/)
-├── dashboard/
-│   └── Project_metrocar.twbx
 ├── doc/
     └── dashboard.png
 
