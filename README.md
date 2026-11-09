@@ -88,10 +88,10 @@ Find **where Metrocar loses users and rides in the funnel** and **when demand pe
 ├── data/                   # query outputs used by Tableau (CSV, same names as sql/)
 ├── dashboard/
 │   └── Project_metrocar.twbx
-├── screenshots/
-│   └── dashboard.png
-└── report/
-    └── Metrocar_Analytics_Report.pdf
+├── doc/
+    └── dashboard.png
+
+
 ```
 
 ## Limitations and next steps
