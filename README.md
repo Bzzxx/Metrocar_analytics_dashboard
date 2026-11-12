@@ -69,7 +69,7 @@ Find **where Metrocar loses users and rides in the funnel** and **when demand pe
 
 ```
 ├── README.md
-├── sql/                    # PostgreSQL queries, one per analysis
+├── sql/                    
 │   ├── 01_general_info.sql
 │   ├── 02_user_funnel.sql
 │   ├── 03_ride_funnel.sql
@@ -78,14 +78,14 @@ Find **where Metrocar loses users and rides in the funnel** and **when demand pe
 │   ├── 06_wait_time_cancellation.sql
 │   ├── 07_platform_completion.sql
 │   ├── 08_day_of_week_cancellation.sql
-│   └── exploration/        # deeper dives not shown on the dashboard
+│   └── exploration/        
 │       ├── 01_user_dropoff_ranking.sql
 │       ├── 02_platform_funnel.sql
 │       ├── 03_age_funnel.sql
 │       ├── 04_age_completion_rate.sql
 │       ├── 05_monthly_trends.sql
 │       └── 06_user_segmentation.sql
-├── data/                   # query outputs used by Tableau (CSV, same names as sql/)
+├── data/                   
 └── doc/
     └── dashboard.png
 
